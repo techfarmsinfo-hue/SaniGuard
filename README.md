@@ -1,18 +1,98 @@
-# SaniGuard
-Climate-resilient sanitation protection system for Northern Ghana communities
-# SaniGuard Project
+# 🚽 SaniGuard Alliance
 
-SaniGuard is a low-cost climate-resilient sanitation system designed to:
-- Protect children from unsafe waste exposure
-- Create youth employment
-- Ensure safe waste management during floods and droughts
-- Improve sanitation in vulnerable communities
+## Climate-Resilient Smart Sanitation Innovation
 
-## Problem
-Poor sanitation systems fail during flooding and cause disease outbreaks.
+SaniGuard Alliance is a youth-led innovation team developing affordable and climate-resilient sanitation systems for vulnerable communities in Northern Ghana.
 
-## Solution
-A modular, flood-resistant sanitation and waste management system.
+Our solution combines:
+
+- IoT monitoring sensors
+- GIS sanitation mapping
+- Retrofit toilet upgrades
+- Flood-resistant sanitation systems
+- Community-driven waste management
+
+---
+
+## 🌍 Problem We Are Solving
+
+Many communities in Northern Ghana experience:
+
+- Flooded toilets during rainy seasons
+- Unsafe waste disposal
+- Poor sanitation access
+- Disease outbreaks
+- Weak waste collection systems
+
+SaniGuard provides a smarter, safer, and more sustainable sanitation system.
+
+---
+
+## 💡 Our Solution
+
+### SaniGuard Smart Retrofit System
+
+We upgrade existing toilets using:
+
+- Low-cost smart sensors
+- Overflow monitoring
+- Modular sanitation units
+- Solar-powered alerts
+- GIS waste tracking
+
+This helps communities maintain safe sanitation even during floods and droughts.
+
+---
+
+## 🛠 Technologies We Use
+
+- Arduino / ESP32
+- IoT Sensors
+- GIS Mapping
+- Solar Energy
+- Mobile Dashboard
+- Data Analytics
+
+---
+
+## 📂 Project Repositories
+
+| Repository | Purpose |
+|------------|---------|
+| sani-guard-prototype | Hardware prototype |
+| sani-dashboard | Monitoring dashboard |
+| sanitation-mapping | GIS mapping system |
+| pitch-deck | UNICEF Hackathon presentation |
+| concept-note | Project documentation |
+| hardware-designs | Hardware and circuit designs |
+| research-and-data | Research findings and datasets |
+
+---
+
+## 🏆 Current Project
+
+### UNICEF Safely Managed Sanitation Hackathon – Ghana
+
+Developing climate-resilient sanitation solutions for flood-prone and underserved communities.
+
+---
+
+## 📸 Prototype Vision
+
+### Existing Toilet ➜ SaniGuard Upgrade
+
+```text
+Traditional Toilet
+        ↓
+SaniGuard Retrofit Upgrade
+        ↓
++ Smart Sensors
++ Overflow Alerts
++ Solar Power
++ GIS Tracking
++ Flood Protection
+        ↓
+Safe & Climate-Resilient Sanitation
 
 ## Team
 AZARA ABUKARI
@@ -24,7 +104,7 @@ Leads strategy and partnerships (UNICEF, districts, NGOs)
 Oversees pilot communities and expansion
 Ensures project meets sanitation goals (climate resilience, child safety)
 
-FUSEINI QUDDUS
+Gmanjun George
 🏗️ 2. Engineering & Design Lead
 
 Handles the technical SaniGuard system (retrofit + new builds)
