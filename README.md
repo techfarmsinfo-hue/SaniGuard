@@ -1,4 +1,4 @@
-# 🚽 SaniGuard Alliance
+# SaniGuard Alliance
 
 ## Climate-Resilient Smart Sanitation Innovation
 
